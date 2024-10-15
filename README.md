@@ -1,2 +1,2 @@
 # software-lab-project
-Web application for centralized placement management.
+Web application for centralized placement management
