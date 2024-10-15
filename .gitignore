@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+db.sqlite3
+/media
+/staticfiles
+/static
+*.mo
+
+# Local environment settings
+.env
+venv/
+venv.bak/
+ENV/
+env/
+.venv/
+.pyvenv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Migrations
+*/migrations/*
+!*/migrations/__init__.py
+
+# Ignore the following for deployment
+/local_settings.py
+
+# VSCode files
+.vscode/
+
+# Mac OS X files
+.DS_Store
+
+# PyCharm files
+.idea/
+
+# JetBrains files
+*.iml
+.idea/
+.idea/*
+*.ipr
+*.iws
+
+# Virtual environment
+*.venv/
+*.env/
+.env
+
+# Static and media files generated at runtime
+/static/
+/media/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Other extra files
+*.sql
+# map/SQLite.sql
+
